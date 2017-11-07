@@ -15,3 +15,10 @@ To download the project
 ### Tutorials
 * http://www.mkyong.com/tutorials/spring-boot-tutorials/
 * https://spring.io/guides/gs/spring-boot/
+* https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
+* https://www.mkyong.com/spring-boot/spring-boot-hello-world-example-mustache/
+
+### Samples
+* https://github.com/spring-projects/spring-boot/tree/v1.5.8.RELEASE/spring-boot-samples/spring-boot-sample-web-mustache
+* https://github.com/spring-projects/spring-boot/tree/v1.5.8.RELEASE/spring-boot-samples/spring-boot-sample-data-jpa
+* https://github.com/spring-projects/spring-boot/tree/v1.5.8.RELEASE/spring-boot-samples/spring-boot-sample-web-secure
