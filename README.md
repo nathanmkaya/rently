@@ -22,3 +22,8 @@ To download the project
 * https://github.com/spring-projects/spring-boot/tree/v1.5.8.RELEASE/spring-boot-samples/spring-boot-sample-web-mustache
 * https://github.com/spring-projects/spring-boot/tree/v1.5.8.RELEASE/spring-boot-samples/spring-boot-sample-data-jpa
 * https://github.com/spring-projects/spring-boot/tree/v1.5.8.RELEASE/spring-boot-samples/spring-boot-sample-web-secure
+
+### Videos
+* https://www.youtube.com/playlist?list=PLGLfVvz_LVvQHO1PfyscjIPkNJjgHsLyH
+* https://www.youtube.com/watch?v=pCvZtjoRq1I
+* https://www.youtube.com/watch?v=dTVVa2gfht8
