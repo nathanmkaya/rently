@@ -3,7 +3,7 @@
 This is a [Spring](https://spring.io/) Project 
 
 To download the project
-`git clone https://github.com/dita-dev-team/rently.git
+`git clone https://github.com/nathanmkaya/rently.git
 `
 
 ### Requirements
